@@ -109,8 +109,8 @@ instancia5 = pd.DataFrame([{
     'contactado_previamente': 1
 }])
 
-print("Predicción instancia 1:", modelo.predict(instancia1))
-print("Predicción instancia 2:", modelo.predict(instancia2))
-print("Predicción instancia 3:", modelo.predict(instancia3))
-print("Predicción instancia 4:", modelo.predict(instancia4))
-print("Predicción instancia 5:", modelo.predict(instancia5))
+print("Predicción instancia 1:", modelo.predict(instancia1), "\n")
+print("Predicción instancia 2:", modelo.predict(instancia2), "\n")
+print("Predicción instancia 3:", modelo.predict(instancia3), "\n")
+print("Predicción instancia 4:", modelo.predict(instancia4), "\n")
+print("Predicción instancia 5:", modelo.predict(instancia5), "\n")
