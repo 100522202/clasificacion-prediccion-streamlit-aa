@@ -4,11 +4,11 @@ Práctica 1 de la asignatura **Aprendizaje Automático (UC3M)**.
 
 ---
 
-## 📌 Descripción del Proyecto
+## Descripción del Proyecto
 
 Pipeline end-to-end de Machine Learning aplicado a la predicción de suscripciones en campañas bancarias (dataset Bank Marketing).
 
-### 🔬 Metodología:
+### Metodología:
 * **EDA (Exploratory Data Analysis):** Análisis univariante y multivariante, tratamiento de valores faltantes y transformaciones de variables.
 * **Preprocesamiento con Pipelines:** Transformadores personalizados para variables numéricas (`StandardScaler`, `MinMaxScaler`) y categóricas.
 * **Modelado:** Comparación de K-Nearest Neighbors (KNN) y Árboles de Decisión (Decision Trees).
@@ -18,7 +18,7 @@ Pipeline end-to-end de Machine Learning aplicado a la predicción de suscripcion
 
 ---
 
-## 🚀 Ejecución de la App Web
+## Ejecución de la App Web
 
 ```bash
 pip install -r requirements.txt
